@@ -2,7 +2,7 @@
 from spotifyclient import SpotifyClient
 
 def main():
-    spotify_client = SpotifyClient("BQAWpVCOLMMCEE0egv6cjLic8G1BIhRZRKHWvomHPXFJ2zOsLtdIKGum3xnYK7EmPDhMbenRESA5isONwXo3Y7Gbe75DxQYyWGW96ILTtRkadGHbU5M1eifHBetPdVvV3_lRCq3WEZD52JC1RgoQy9usctnC3c7PnqVM-v6FrM8lZvWLpw",
+    spotify_client = SpotifyClient("OAUTH CREATE PLAYLIST TOKEN",
                                    "kkevinluke")
 
     # get last played tracks
